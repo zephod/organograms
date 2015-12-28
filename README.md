@@ -7,3 +7,4 @@ To run the ETL from the command line, first download the XLS archive and place t
 
     sudo pip install pandas xlrd numpy
     ./etl_to_csv.py data/xls/*.xls data/csv
+.
